@@ -35,3 +35,18 @@ Another method that:
 1. Make sure Dart is installed:
    ```bash
    dart --version
+
+2.  Run the file:
+
+    ``` bash
+    dart run day1hw.dart
+    ```
+
+## Sample Output
+
+The program prints results for each question (Q1, Q2, Q3) and the Extra
+Credit output in the console.
+
+## Author
+
+-   Sultan
