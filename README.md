@@ -67,7 +67,7 @@ dart --version
 
 2.  Run the program:
 ``` bash
-    dart run day1hw.dart
+dart run day1hw.dart
 ```
 
 ## 👤Author
