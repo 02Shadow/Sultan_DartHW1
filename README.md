@@ -12,7 +12,7 @@ This project contains my solutions for **Homework 1** using Dart.
 | File | Description |
 |------|-------------|
 | `day1hw.dart` | Main Dart file containing solutions for Q1, Q2, Q3, and Extra Credit |
-| `screenshots/output.png` | Screenshot showing the full program output |
+| `screenshots/OutputHW1.png` | Screenshot showing the full program output |
 
 ---
 
