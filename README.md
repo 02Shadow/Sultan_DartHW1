@@ -1,57 +1,76 @@
-# Dart Homework 1 (Day 1)
+# 🐦 Dart Homework 1 (Day 1)
 
-This repository contains my solutions for **Homework 1** in Dart.\
-The homework covers basic functions, string processing, and using `Map`,
-`Set`, and `List`.
+Homework submission for **Flutter & Dart Bootcamp – Week 1**.  
+This project contains my solutions for **Homework 1** using Dart.
 
-## Files
+> The homework focuses on practicing fundamental Dart concepts:
+> Functions, conditionals, string manipulation, and collections (`Map`, `Set`, `List`).
 
--   `day1hw.dart` --- Main Dart file that includes solutions for Q1, Q2,
-    Q3, and the Extra Credit task.
+---
 
-## Questions & Solutions
+## 📁 Files
+| File | Description |
+|------|-------------|
+| `day1hw.dart` | Main Dart file containing solutions for Q1, Q2, Q3, and Extra Credit |
+| `screenshots/output.png` | Screenshot showing the full program output |
 
-### Q1) Swap Number (0 ↔ 1)
+---
 
-A function that receives either `0` or `1` and returns the other
-value. - `swapNumber(0)` → `1` - `swapNumber(1)` → `0`
+## 🧩 Questions & Solutions
 
-### Q2) Check if String Contains All English Letters (A--Z)
+### 🔹 Q1) Swap Number (0 ↔ 1)
+Receives either `0` or `1` and returns the other value.
 
-A function that checks whether a string contains **all 26 English
-letters**. Steps used: - Remove spaces - Convert to lowercase - Collect
-letters in a `Set` - Return `true` if the set size is `26`
+**Example**
+swapNumber(0) → 1
+swapNumber(1) → 0
 
-### Q3) Count Letter Occurrences
+---
 
-A function that counts how many times each character appears in a string
-and prints the resulting `Map`.
+### 🔹 Q2) Check if String Contains All English Letters (A–Z)
+Checks whether a string contains **all 26 English letters**.
 
-### Extra Credit) Print Letters in Alphabetical Order
+**Steps**
+- Remove spaces  
+- Convert to lowercase  
+- Store letters in a `Set`  
+- Return `true` if set size equals `26`
 
-Another method that: - Uses a `Map` for counting - Sorts the keys
-alphabetically - Prints each letter and its count in order
+---
 
-## How to Run
+### 🔹 Q3) Count Letter Occurrences
+Counts how many times each character appears in a string and prints the resulting `Map`.
 
-1.  Make sure Dart is installed:
+---
 
-    ``` bash
-    dart --version
-    ```
+### ⭐ Extra Credit) Print Letters in Alphabetical Order
+- Count letters using a `Map`  
+- Sort keys alphabetically  
+- Print each letter with its count
 
-2.  Run the file:
+---
 
-    ``` bash
+## 🖥️ Program Output
+
+Below is a screenshot showing the **full console output** after running the program:
+
+<p align="center">
+  <img src="screenshots/output.png" width="700">
+</p>
+
+---
+
+## ⚙️ How to Run
+
+**1. Check Dart installation**
+```bash
+dart --version
+```
+
+2.  Run the program:
+``` bash
     dart run day1hw.dart
-    ```
+```
 
-## Sample Output
-<img width="732" height="484" alt="OutputHW1" src="https://github.com/user-attachments/assets/ca284a05-7171-4068-b8c8-37afd8cd5f35" />
-
-The program prints results for each question (Q1, Q2, Q3) and the Extra
-Credit output in the console.
-
-## Author
-
+## 👤Author
 -   Sultan
