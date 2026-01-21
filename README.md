@@ -54,9 +54,7 @@ Counts how many times each character appears in a string and prints the resultin
 
 Below is a screenshot showing the **full console output** after running the program:
 
-<p align="center">
-  <img src="screenshots/output.png" width="700">
-</p>
+<img width="732" height="484" alt="OutputHW1" src="https://github.com/user-attachments/assets/ca284a05-7171-4068-b8c8-37afd8cd5f35" />
 
 ---
 
