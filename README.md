@@ -1,6 +1,6 @@
 # 🐦 Dart Homework 1 (Day 1)
 
-Homework submission for **Flutter & Dart Bootcamp – Week 1**.  
+Homework submission for **Flutter & Dart Bootcamp - Week 1**.  
 This project contains my solutions for **Homework 1** using Dart.
 
 > The homework focuses on practicing fundamental Dart concepts:
@@ -70,5 +70,5 @@ dart --version
 dart run day1hw.dart
 ```
 
-## 👤Author
+## 👤 Author
 -   Sultan
